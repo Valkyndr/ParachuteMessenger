@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Parachute Messenger</string>
+    <string name="edit_text_placeholder_message">Enter a message</string>
+</resources>
